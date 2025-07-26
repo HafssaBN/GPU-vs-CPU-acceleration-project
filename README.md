@@ -1,1 +1,1 @@
-"# GPU-vs-CPU-acceleration-project" 
+# GPU-vs-CPU-acceleration-project
