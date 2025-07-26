@@ -1,8 +1,3 @@
-Absolutely! Here's a complete and professional `README.md` template for your project. It covers the purpose of the project, structure, requirements, usage, and examples.
-
----
-
-```markdown
 # GPU vs CPU Acceleration Project
 
 This project investigates the performance differences between **GPU** and **CPU** acceleration across multiple deep learning models using distributed training techniques. It includes a set of Jupyter notebooks, training logs, performance plots, and configuration files for five distinct projects with varying models and hardware settings.
